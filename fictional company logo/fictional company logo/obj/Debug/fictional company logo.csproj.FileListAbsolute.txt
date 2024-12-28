@@ -1,0 +1,10 @@
+C:\Users\SSoni\Desktop\fictional company logo\fictional company logo\bin\Debug\fictional company logo.exe.config
+C:\Users\SSoni\Desktop\fictional company logo\fictional company logo\bin\Debug\fictional company logo.exe
+C:\Users\SSoni\Desktop\fictional company logo\fictional company logo\bin\Debug\fictional company logo.pdb
+C:\Users\SSoni\Desktop\fictional company logo\fictional company logo\obj\Debug\fictional company logo.csproj.AssemblyReference.cache
+C:\Users\SSoni\Desktop\fictional company logo\fictional company logo\obj\Debug\fictional_company_logo.Form1.resources
+C:\Users\SSoni\Desktop\fictional company logo\fictional company logo\obj\Debug\fictional_company_logo.Properties.Resources.resources
+C:\Users\SSoni\Desktop\fictional company logo\fictional company logo\obj\Debug\fictional company logo.csproj.GenerateResource.cache
+C:\Users\SSoni\Desktop\fictional company logo\fictional company logo\obj\Debug\fictional company logo.csproj.CoreCompileInputs.cache
+C:\Users\SSoni\Desktop\fictional company logo\fictional company logo\obj\Debug\fictional company logo.exe
+C:\Users\SSoni\Desktop\fictional company logo\fictional company logo\obj\Debug\fictional company logo.pdb

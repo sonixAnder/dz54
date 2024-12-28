@@ -1,0 +1,10 @@
+C:\Users\SSoni\Desktop\chess board\chess board\bin\Debug\chess board.exe.config
+C:\Users\SSoni\Desktop\chess board\chess board\bin\Debug\chess board.exe
+C:\Users\SSoni\Desktop\chess board\chess board\bin\Debug\chess board.pdb
+C:\Users\SSoni\Desktop\chess board\chess board\obj\Debug\chess board.csproj.AssemblyReference.cache
+C:\Users\SSoni\Desktop\chess board\chess board\obj\Debug\chess_board.Form1.resources
+C:\Users\SSoni\Desktop\chess board\chess board\obj\Debug\chess_board.Properties.Resources.resources
+C:\Users\SSoni\Desktop\chess board\chess board\obj\Debug\chess board.csproj.GenerateResource.cache
+C:\Users\SSoni\Desktop\chess board\chess board\obj\Debug\chess board.csproj.CoreCompileInputs.cache
+C:\Users\SSoni\Desktop\chess board\chess board\obj\Debug\chess board.exe
+C:\Users\SSoni\Desktop\chess board\chess board\obj\Debug\chess board.pdb

@@ -1,0 +1,10 @@
+C:\Users\SSoni\Desktop\drawing various geometric shapes\drawing various geometric shapes\bin\Debug\drawing various geometric shapes.exe.config
+C:\Users\SSoni\Desktop\drawing various geometric shapes\drawing various geometric shapes\bin\Debug\drawing various geometric shapes.exe
+C:\Users\SSoni\Desktop\drawing various geometric shapes\drawing various geometric shapes\bin\Debug\drawing various geometric shapes.pdb
+C:\Users\SSoni\Desktop\drawing various geometric shapes\drawing various geometric shapes\obj\Debug\drawing various geometric shapes.csproj.AssemblyReference.cache
+C:\Users\SSoni\Desktop\drawing various geometric shapes\drawing various geometric shapes\obj\Debug\drawing_various_geometric_shapes.Form1.resources
+C:\Users\SSoni\Desktop\drawing various geometric shapes\drawing various geometric shapes\obj\Debug\drawing_various_geometric_shapes.Properties.Resources.resources
+C:\Users\SSoni\Desktop\drawing various geometric shapes\drawing various geometric shapes\obj\Debug\drawing various geometric shapes.csproj.GenerateResource.cache
+C:\Users\SSoni\Desktop\drawing various geometric shapes\drawing various geometric shapes\obj\Debug\drawing various geometric shapes.csproj.CoreCompileInputs.cache
+C:\Users\SSoni\Desktop\drawing various geometric shapes\drawing various geometric shapes\obj\Debug\drawing various geometric shapes.exe
+C:\Users\SSoni\Desktop\drawing various geometric shapes\drawing various geometric shapes\obj\Debug\drawing various geometric shapes.pdb

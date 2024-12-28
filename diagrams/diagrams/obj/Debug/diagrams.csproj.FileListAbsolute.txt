@@ -1,0 +1,10 @@
+C:\Users\SSoni\Desktop\diagrams\diagrams\bin\Debug\diagrams.exe.config
+C:\Users\SSoni\Desktop\diagrams\diagrams\bin\Debug\diagrams.exe
+C:\Users\SSoni\Desktop\diagrams\diagrams\bin\Debug\diagrams.pdb
+C:\Users\SSoni\Desktop\diagrams\diagrams\obj\Debug\diagrams.csproj.AssemblyReference.cache
+C:\Users\SSoni\Desktop\diagrams\diagrams\obj\Debug\diagrams.Form1.resources
+C:\Users\SSoni\Desktop\diagrams\diagrams\obj\Debug\diagrams.Properties.Resources.resources
+C:\Users\SSoni\Desktop\diagrams\diagrams\obj\Debug\diagrams.csproj.GenerateResource.cache
+C:\Users\SSoni\Desktop\diagrams\diagrams\obj\Debug\diagrams.csproj.CoreCompileInputs.cache
+C:\Users\SSoni\Desktop\diagrams\diagrams\obj\Debug\diagrams.exe
+C:\Users\SSoni\Desktop\diagrams\diagrams\obj\Debug\diagrams.pdb

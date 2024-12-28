@@ -1,0 +1,10 @@
+C:\Users\SSoni\Desktop\dollar exchange rate fluctuations\dollar exchange rate fluctuations\bin\Debug\dollar exchange rate fluctuations.exe.config
+C:\Users\SSoni\Desktop\dollar exchange rate fluctuations\dollar exchange rate fluctuations\bin\Debug\dollar exchange rate fluctuations.exe
+C:\Users\SSoni\Desktop\dollar exchange rate fluctuations\dollar exchange rate fluctuations\bin\Debug\dollar exchange rate fluctuations.pdb
+C:\Users\SSoni\Desktop\dollar exchange rate fluctuations\dollar exchange rate fluctuations\obj\Debug\dollar exchange rate fluctuations.csproj.AssemblyReference.cache
+C:\Users\SSoni\Desktop\dollar exchange rate fluctuations\dollar exchange rate fluctuations\obj\Debug\dollar_exchange_rate_fluctuations.Form1.resources
+C:\Users\SSoni\Desktop\dollar exchange rate fluctuations\dollar exchange rate fluctuations\obj\Debug\dollar_exchange_rate_fluctuations.Properties.Resources.resources
+C:\Users\SSoni\Desktop\dollar exchange rate fluctuations\dollar exchange rate fluctuations\obj\Debug\dollar exchange rate fluctuations.csproj.GenerateResource.cache
+C:\Users\SSoni\Desktop\dollar exchange rate fluctuations\dollar exchange rate fluctuations\obj\Debug\dollar exchange rate fluctuations.csproj.CoreCompileInputs.cache
+C:\Users\SSoni\Desktop\dollar exchange rate fluctuations\dollar exchange rate fluctuations\obj\Debug\dollar exchange rate fluctuations.exe
+C:\Users\SSoni\Desktop\dollar exchange rate fluctuations\dollar exchange rate fluctuations\obj\Debug\dollar exchange rate fluctuations.pdb

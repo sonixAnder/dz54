@@ -1,0 +1,10 @@
+C:\Users\SSoni\Desktop\Watch\Watch\bin\Debug\Watch.exe.config
+C:\Users\SSoni\Desktop\Watch\Watch\bin\Debug\Watch.exe
+C:\Users\SSoni\Desktop\Watch\Watch\bin\Debug\Watch.pdb
+C:\Users\SSoni\Desktop\Watch\Watch\obj\Debug\Watch.csproj.AssemblyReference.cache
+C:\Users\SSoni\Desktop\Watch\Watch\obj\Debug\Watch.Form1.resources
+C:\Users\SSoni\Desktop\Watch\Watch\obj\Debug\Watch.Properties.Resources.resources
+C:\Users\SSoni\Desktop\Watch\Watch\obj\Debug\Watch.csproj.GenerateResource.cache
+C:\Users\SSoni\Desktop\Watch\Watch\obj\Debug\Watch.csproj.CoreCompileInputs.cache
+C:\Users\SSoni\Desktop\Watch\Watch\obj\Debug\Watch.exe
+C:\Users\SSoni\Desktop\Watch\Watch\obj\Debug\Watch.pdb
